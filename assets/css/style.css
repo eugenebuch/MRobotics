@@ -1283,3 +1283,7 @@ td:hover {
   font-size: 13px;
   color: #ddd;
 }
+
+#five-s .row p, #faq p, #about p {
+  text-align: justify !important;
+}
