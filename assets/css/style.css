@@ -1284,6 +1284,6 @@ td:hover {
   color: #ddd;
 }
 
-#five-s .row p, #faq p, #about p {
-  text-align: justify !important;
+#five-s .row p, #faq p, #about p, .footer-info p {
+  text-align: justify;
 }
