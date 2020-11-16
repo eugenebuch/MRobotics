@@ -23,6 +23,11 @@ p {
   margin: 0 0 30px 0;
 }
 
+i {
+  color: #0e1b4d;
+  font-size: 18px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
   font-weight: 400;
@@ -826,8 +831,9 @@ td:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  border-right: 1px solid #e0e5fa;
-  border-bottom: 1px solid #e0e5fa;
+  border: 1px solid #e0e5fa;
+  /* border-right: 1px solid #e0e5fa;
+  border-bottom: 1px solid #e0e5fa; */
   overflow: hidden;
   background: rgba(255, 255, 255, 0.5);
   height: 160px;
