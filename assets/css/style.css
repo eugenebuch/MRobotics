@@ -808,10 +808,6 @@ td:hover {
 #five-s {
   padding: 60px 0 30px 0;
 }
-
-#five-s p, #faq p, #about p {
-  text-align: justify;
-}
 /*--------------------------------------------------------------
 # Sponsors Section
 --------------------------------------------------------------*/
@@ -1286,4 +1282,8 @@ td:hover {
   text-align: center;
   font-size: 13px;
   color: #ddd;
+}
+
+#five-s .row p, #faq p, #about p, .footer-info p {
+  text-align: justify;
 }
