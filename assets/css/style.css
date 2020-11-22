@@ -561,7 +561,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translateX(-40%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
   width: 0;
   height: 0;
   border-top: 10px solid transparent;
@@ -589,8 +589,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   opacity: 1;
   border-radius: 50%;
   border: 2px solid rgba(163, 163, 163, 0.4);
-  top: -15%;
-  left: -15%;
+  top: -13%;
+  left: -14%;
   background: rgba(198, 16, 0, 0);
 }
 
